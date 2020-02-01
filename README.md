@@ -8,12 +8,17 @@ base.bin https://drive.google.com/open?id=1WfF9OPCMQULkTG-pJBTncpZ1HSOYxuXN  4 g
 Example:
 
 joao@JP-Ubuntu: gcc Main.c
+
 joao@JP-Ubuntu:~$ ./a.out
 
 |_________________Menu_________________|
+
 | Digite [1]:Cuckoo hash               |
+
 | Digite [2]:Arvore Binaria de Pesquisa|
+
 | Digite [0]:Sair                      |
+
 |______________________________________|
 
 Digite a entrada: 1
@@ -31,8 +36,11 @@ Outros: EGb8!MD*+2t(*ec?#O&(n.n,p/95I-R*SPAT|~]BKmJTS.row4vfAe-2/EFrR4{@cWszpl>=
 Tempo gasto (milisegundos) para pesquisar: 0.081000
  ____________________________
 |__________Menu Hash_________|
+
 | Digite [1]:Buscar novamente|
+
 | Digite [0]:Sair            |
+
 |____________________________|
 
 Digite a entrada: 0

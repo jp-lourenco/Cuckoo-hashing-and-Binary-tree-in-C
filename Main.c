@@ -1,4 +1,4 @@
-#include "biblioteca1.c"
+#include "biblioteca.h"
 
 int main(){
 	
